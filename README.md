@@ -45,6 +45,17 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="60" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adith1207&show_icons=true&locale=en&layout=compact" alt="adith1207" /></p>
+## 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adith1207&show_icons=true&locale=en" alt="adith1207" /></p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adith1207&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=adith1207&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
+
+![snake gif](https://github.com/Adith1207/Adith1207/blob/output/github-snake-dark.svg)
