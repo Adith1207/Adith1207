@@ -1,5 +1,21 @@
-<h1 align="center">Hi 👋, I'm Adith Narayan G</h1>
-<h3 align="center">🧠 ML + CV Enthusiast | 🛠️ FrontEnd & Flutter Dev | 🔬 Systems & OS Explorer from India</h3>
+<h1 align="center">
+  Hi 👋, I'm <b>Adith Narayan G</b>  
+  <br/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="waving hand"/>
+</h1>
+
+<h3 align="center">
+  🧠 <b>ML + CV Enthusiast</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🛠️ <b>FrontEnd & Flutter Dev</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🔬 <b>Systems & OS Explorer</b>  
+</h3>
+
+<p align="center">  
+  <img src="https://img.shields.io/badge/🌏-India-orange?style=flat&logo=googlemaps&logoColor=white" alt="India"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&width=450&lines=Passionate+about+Tech...!;Always+Learning+New+Skills...;Building+Innovative+Projects;Mathematics+Lover..." alt="Typing SVG" />
+</p>
+
 
 
 - ### 🔭 Current Project
