@@ -2,15 +2,31 @@
 <h3 align="center">🧠 ML + CV Enthusiast | 🛠️ FrontEnd & Flutter Dev | 🔬 Systems & OS Explorer from India</h3>
 
 
-- 🔭 I’m currently working on **HamNoSys Generator**
+- ### 🔭 Current Project
+🎯 Working on **[HamNoSys Generator](#)** – a tool to convert sign language descriptions to symbolic notation (HamNoSys)
 
-- 🌱 I’m currently learning **Node JS, Express, Rust**
+### 🌱 Learning Journey
+🚀 Currently diving into:
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
 
-- 👯 I’m looking to collaborate on **Computer Vision & ML**
+### 🤝 Let's Collaborate
+👯 Looking to team up on **Computer Vision** and **Machine Learning** projects!
 
-- 💬 Ask me about **Python3, java,**
+### 💬 Ask Me About
+🧠 Proficient in:
+- ![Python](https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-- 📫 How to reach me **adithnarayang@gmail.com**
+### 📫 Reach Me At
+📧 Email: **[adithnarayang@gmail.com](mailto:adithnarayang@gmail.com)**  
+🔗 LinkedIn: [Adith Narayan G](https://linkedin.com/in/adith1207)
+
+---
+
+✨ _“Always learning, always building.”_
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
