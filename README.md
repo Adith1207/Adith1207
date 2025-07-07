@@ -16,6 +16,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&width=450&lines=Passionate+about+Tech...!;Always+Learning+New+Skills...;Building+Innovative+Projects;Mathematics+Lover..." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmFmaGM4aTJrbXB1Y3o4cmQya3dudXAwNWEyZzVhZHZiYWlrN2xvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S9d8XB557e8phGLBVS/giphy.gif" width="450" alt="coder gif" />
+</p>
+
+
 
 
 - ### 🔭 Current Project
