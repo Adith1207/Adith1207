@@ -25,24 +25,25 @@
 
 
 
-- ### 🔭 Current Project
+- ## 🔭 Current Project
 🎯 Working on **[HamNoSys Generator](#)** – a tool to convert sign language descriptions to symbolic notation (HamNoSys)
 
 ### 🌱 Learning Journey
 🚀 Currently diving into:
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-- ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### 🤝 Let's Collaborate
+
+## 🤝 Let's Collaborate
 👯 Looking to team up on **Computer Vision** and **Machine Learning** projects!
 
-### 💬 Ask Me About
+## 💬 Ask Me About
 🧠 Proficient in:
 - ![Python](https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-### 📫 Reach Me At
+## 📫 Reach Me At
 📧 Email: **[adithnarayang@gmail.com](mailto:adithnarayang@gmail.com)**  
 🔗 LinkedIn: [Adith Narayan G](https://linkedin.com/in/adith1207)
 
