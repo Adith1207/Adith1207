@@ -90,7 +90,8 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<!-- GitHub Stats Section -->
+<table align="center">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adith1207&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
@@ -100,5 +101,11 @@
     </td>
   </tr>
 </table>
+
+<!-- GitHub Streak (separate from table for alignment) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adith1207&theme=radical" height="180" alt="GitHub Streak" />
+</p>
+
 
 ![snake gif](https://github.com/Adith1207/Adith1207/blob/output/github-snake-dark.svg)
