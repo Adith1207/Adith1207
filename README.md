@@ -25,10 +25,10 @@
 
 
 
-- ## 🔭 Current Project
+## 🔭 Current Project
 🎯 Working on **[HamNoSys Generator](#)** – a tool to convert sign language descriptions to symbolic notation (HamNoSys)
 
-### 🌱 Learning Journey
+## 🌱 Learning Journey
 🚀 Currently diving into:
 - ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -48,8 +48,6 @@
 🔗 LinkedIn: [Adith Narayan G](https://linkedin.com/in/adith1207)
 
 ---
-
-## ✨ _“Always learning, always building.”_
 
 
 <h3 align="center">🌐 Connect with me</h3>
@@ -119,6 +117,8 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adith1207&theme=radical" height="180" alt="GitHub Streak" />
 </p>
+
+<h3 align="center">✨ _“Always learning, always building.”_ 🚀</h3>
 
 
 ![snake gif](https://github.com/Adith1207/Adith1207/blob/output/github-snake-dark.svg)
