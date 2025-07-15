@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm <b>Adith Narayan G</b>  
+  Hey There, I'm <b>Adith Narayan G</b>  
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="waving hand"/>
 </h1>
@@ -118,7 +118,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adith1207&theme=radical" height="180" alt="GitHub Streak" />
 </p>
 
-<h3 align="center">✨ _“Always learning, always building.”_ 🚀</h3>
+<h3 align="center">✨ _ “Dream in code. Build in reality.”_ 🚀</h3>
 
 
 ![snake gif](https://github.com/Adith1207/Adith1207/blob/output/github-snake-dark.svg)
