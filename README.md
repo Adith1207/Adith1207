@@ -104,6 +104,17 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a> </p>
 
+## 💻 My Workspace
+
+<p>
+  <img src="https://img.icons8.com/?size=100&id=doXmogC0imya&format=png&color=000000" alt="MSI Logo" height="80"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA GTX 1650" />
+</p>
+
+
 ## 🧮 LeetCode Stats
 
 <p align="center">
