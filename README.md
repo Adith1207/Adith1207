@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🧠 <b>ML + CV Enthusiast</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🛠️ <b>FrontEnd & Flutter Dev</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🔬 <b>Systems & OS Explorer</b>  
+  🧠 <b>ML & Iot Enthusiast</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🛠️ <b>Web Architect</b> &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 🔬 <b>Systems & OS Explorer</b>  
 </h3>
 
 <p align="center">  
