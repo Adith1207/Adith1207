@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey There, I'm <b>Adith Narayan G</b>  
+  Hey Devolopers, I'm <b>Adith Narayan G</b>  
   <br/>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="waving hand"/>
 </h1>
@@ -47,10 +47,6 @@
 ## 🤝 Let's Collaborate
 👯 Looking to team up on **Computer Vision** and **Machine Learning** projects!
 
-## 💬 Ask Me About
-🧠 Proficient in:
-- ![Python](https://img.shields.io/badge/-Python3-3776AB?style=flat&logo=python&logoColor=white)
-- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ## 📫 Reach Me At
 📧 Email: **[adithnarayang@gmail.com](mailto:adithnarayang@gmail.com)**  
