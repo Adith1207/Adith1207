@@ -104,6 +104,13 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="80" height="80"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="80" height="80"/> </a> </p>
 
+## 🧮 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/adithnarayang?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+
 ## 📊 GitHub Stats
 
 <!-- GitHub Stats Section -->
