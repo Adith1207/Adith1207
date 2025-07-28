@@ -20,10 +20,12 @@
 
 ## About Me
 
-> 💡 **Note**  
+> 💡 **Note**
+>
 > I’m a computer science student @ Amrita Vishwa Vidyapeetham, <br>
-> I love problem-solving and using my knowledge in CSE to build useful, <br>
-impactful projects.  <br>
+>
+> I love problem-solving and using my knowledge in CSE to build useful impactful projects.  <br>
+>
 > always aiming to create code that makes a difference. <br>
 <br>
 <br>
