@@ -16,15 +16,20 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4A90E2&width=450&lines=Passionate+about+Tech...!;Always+Learning+New+Skills...;Building+Innovative+Projects;Mathematics+Lover...!!" alt="Typing SVG" />
 </p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU2Y3EzNmEycjVrbjgxdzZxaW1veGlyZTN1bjZkODUzMTJmNW1ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400px" height="400px" align="right"></img>
 
 ## About Me
+
 > 💡 **Note**  
-> I’m a computer science student @ Amrita Vishwa Vidyapeetham,
-> passionate about turning ideas into real-world solutions.  
-> I love problem-solving and using my knowledge in CSE to build useful, impactful projects.  
-> always aiming to create code that makes a difference.
-
-
+> I’m a computer science student @ Amrita Vishwa Vidyapeetham, <br>
+> I love problem-solving and using my knowledge in CSE to build useful, <br>
+impactful projects.  <br>
+> always aiming to create code that makes a difference. <br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ## 🔭 Current Project
