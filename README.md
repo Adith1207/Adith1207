@@ -18,9 +18,11 @@
 </p>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU2Y3EzNmEycjVrbjgxdzZxaW1veGlyZTN1bjZkODUzMTJmNW1ydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="400px" height="400px" align="right"></img>
 
-## About Me
+<br>
+<br>
+<br>
 
-> 💡 **Note**
+> 💡 **ABOUT ME**
 >
 > I’m a computer science student @ Amrita Vishwa Vidyapeetham, <br>
 >
