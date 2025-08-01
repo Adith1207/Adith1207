@@ -140,8 +140,9 @@
 
 <!-- GitHub Streak (separate from table for alignment) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adith1207&theme=radical" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=adith1207&theme=radical" height="180" alt="GitHub Streak" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adith1207&theme=github-compact" alt="Adith's Activity Graph" />
