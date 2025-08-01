@@ -138,11 +138,6 @@
   </tr>
 </table>
 
-<!-- GitHub Streak (separate from table for alignment) -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adith1207&theme=radical" height="180" alt="GitHub Streak" />
-</p>
-
 
 
 <p align="center">
