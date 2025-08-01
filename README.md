@@ -138,7 +138,9 @@
   </tr>
 </table>
 
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adith1207&theme=radical" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adith1207&theme=github-compact" alt="Adith's Activity Graph" />
