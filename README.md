@@ -49,11 +49,9 @@
 ## 🤝 Let's Collaborate
 👯 Looking to team up on **Computer Vision** and **Machine Learning** projects!
 
+## 📫 Reach Me At  
 
-## 📫 Reach Me At
-📧 Email: **[adithnarayang@gmail.com](mailto:adithnarayang@gmail.com)**  
-🔗 LinkedIn: [Adith Narayan G](https://linkedin.com/in/adith1207)
-
+[![Email](https://img.shields.io/badge/Email-adithnarayang%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithnarayang@gmail.com)  
 
 
 ## 🌐 Connect with Me
