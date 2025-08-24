@@ -97,6 +97,9 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java"/><br><b>Java</b>
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="80" height="80" alt="Figma" /><br><b>Figma</b>
+    </td>
   </tr>
 
   <tr>
@@ -114,6 +117,9 @@
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80" alt="CSS3"/><br><b>CSS</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/452/canva.png" width="80" height="80" alt="Canva" /><br><b>Canva</b>
     </td>
   </tr>
 
@@ -133,6 +139,10 @@
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind"/><br><b>Tailwind</b>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="80" height="80" alt="Next.js" /><br><b>Next.js</b>
+    </td>
+  </tr>
   </tr>
 
   <tr>
