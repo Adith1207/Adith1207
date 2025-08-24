@@ -85,78 +85,79 @@
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="50" height="50" alt="Arduino"/><br>Arduino
+      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="80" height="80" alt="Arduino"/><br>Arduino
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="50" height="50" alt="Bash"/><br>Bash
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="80" height="80" alt="Bash"/><br>Bash
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50" alt="C"/><br>C
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="80" height="80" alt="C"/><br>C
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++"/><br>C++
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++"/><br>C++
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50" alt="Java"/><br>Java
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/><br>Python
-    </td>
-    <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="50" height="50" alt="PyTorch"/><br>PyTorch
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/><br>MySQL
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/><br>HTML
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/><br>CSS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" alt="Java"/><br>Java
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50" alt="Flutter"/><br>Flutter
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" alt="Python"/><br>Python
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart"/><br>Dart
+      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="80" height="80" alt="PyTorch"/><br>PyTorch
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="50" height="50" alt="Flask"/><br>Flask
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySQL"/><br>MySQL
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React"/><br>React
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="80" height="80" alt="HTML5"/><br>HTML
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" height="50" alt="Tailwind"/><br>Tailwind
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80" height="80" alt="CSS3"/><br>CSS
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git"/><br>Git
+      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="80" height="80" alt="Flutter"/><br>Flutter
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/><br>Linux
+      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="80" height="80" alt="Dart"/><br>Dart
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="50" height="50" alt="MATLAB"/><br>MATLAB
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="80" height="80" alt="Flask"/><br>Flask
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="50" height="50" alt="OpenCV"/><br>OpenCV
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" height="80" alt="React"/><br>React
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/><br>Pandas
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind"/><br>Tailwind
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80" height="80" alt="Git"/><br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80" alt="Linux"/><br>Linux
+    </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80" alt="MATLAB"/><br>MATLAB
+    </td>
+    <td align="center" width="120">
+      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="80" height="80" alt="OpenCV"/><br>OpenCV
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas"/><br>Pandas
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ## 💻 My Workspace
 
