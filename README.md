@@ -156,18 +156,18 @@
 
 </div>
 
-## 🖊️ Code Editors & IDEs
+## 🖊️ Code Editors & IDEs 
 
 <table>
   <tr>
-    <td align="center"><b>VS Code</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80"/></td>
-    <td align="center"><b>Eclipse</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="80" height="80"/></td>
-    <td align="center"><b>Anaconda</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80"/></td>
-    <td align="center"><b>Jupyter</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="80" height="80"/></td>
-    <td align="center"><b>IDLE</b><br><img src="https://cdn-icons-png.flaticon.com/512/3097/3097024.png" width="80" height="80"/></td>
-    <td align="center"><b>Vim</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="80" height="80"/></td>
+    <td align="center"><b>VS Code</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" height="80" alt="VS Code" /></td>
+    <td align="center"><b>Eclipse</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="80" height="80" alt="Eclipse" /></td>
+    <td align="center"><b>Anaconda</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="80" height="80" alt="Anaconda" /></td>
+    <td align="center"><b>Jupyter</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="80" height="80" alt="Jupyter Notebook" /></td>
+    <td align="center"><b>Vim</b><br><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="80" height="80" alt="Vim" /></td>
   </tr>
 </table>
+
 
 
 ## 💻 My Workspace
