@@ -76,9 +76,9 @@
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🚀 Languages & Tools</h3>
 
-<div align="left">
+<div align="center">
 
 <table>
   <tr>
@@ -86,34 +86,34 @@
       <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="80" height="80" alt="Arduino"/><br><b>Arduino</b>
     </td>
     <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="80" height="80" alt="Bash"/><br><b>Bash</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="80" height="80" alt="Bash"/><br><b>Bash</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="80" height="80" alt="C"/><br><b>C</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="80" height="80" alt="C"/><br><b>C</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++"/><br><b>C++</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="80" height="80" alt="C++"/><br><b>C++</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="80" height="80" alt="Java"/><br><b>Java</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="80" height="80" alt="Java"/><br><b>Java</b>
     </td>
   </tr>
 
   <tr>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="80" height="80" alt="Python"/><br><b>Python</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" height="80" alt="Python"/><br><b>Python</b>
     </td>
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="80" height="80" alt="PyTorch"/><br><b>PyTorch</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySQL"/><br><b>MySQL</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="80" height="80" alt="MySQL"/><br><b>MySQL</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="80" height="80" alt="HTML5"/><br><b>HTML</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="80" height="80" alt="HTML5"/><br><b>HTML</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="80" height="80" alt="CSS3"/><br><b>CSS</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="80" height="80" alt="CSS3"/><br><b>CSS</b>
     </td>
   </tr>
 
@@ -125,10 +125,10 @@
       <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="80" height="80" alt="Dart"/><br><b>Dart</b>
     </td>
     <td align="center" width="120">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" width="80" height="80" alt="Flask"/><br><b>Flask</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="80" height="80" alt="Flask"/><br><b>Flask</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" height="80" alt="React"/><br><b>React</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="80" height="80" alt="React"/><br><b>React</b>
     </td>
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="80" height="80" alt="Tailwind"/><br><b>Tailwind</b>
@@ -140,7 +140,7 @@
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="80" height="80" alt="Git"/><br><b>Git</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="80" height="80" alt="Linux"/><br><b>Linux</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" height="80" alt="Linux"/><br><b>Linux</b>
     </td>
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="80" height="80" alt="MATLAB"/><br><b>MATLAB</b>
@@ -149,12 +149,13 @@
       <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="80" height="80" alt="OpenCV"/><br><b>OpenCV</b>
     </td>
     <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas"/><br><b>Pandas</b>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="80" height="80" alt="Pandas"/><br><b>Pandas</b>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 
 ## 💻 My Workspace
