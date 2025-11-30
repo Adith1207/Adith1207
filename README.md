@@ -188,12 +188,6 @@
 </p>
 
 
-## 🧮 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adithnarayang?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
 
 ## 📊 GitHub Stats
 
