@@ -192,13 +192,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adith1207&theme=radical" height="200" />
-</p>
-
-
-
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adith1207&theme=github-compact" alt="Adith's Activity Graph" />
 </p>
 
