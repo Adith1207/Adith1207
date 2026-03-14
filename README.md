@@ -193,9 +193,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adith1207&show_icons=true&theme=tokyonight)
 
-## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adith1207&theme=tokyonight)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adith1207&layout=compact&theme=tokyonight)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adith1207&theme=github-compact" alt="Adith's Activity Graph" />
